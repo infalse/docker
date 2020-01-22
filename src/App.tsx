@@ -327,7 +327,7 @@ const App: React.FC = () => {
                 </div>
                 <div className="col-1-of-2">
                     <p className="footer__copyright">
-                        Built by <a href="#" className="footer__link">Jonas Schmedtmann</a> for his online course <a href="#" className="footer__link">Advanced CSS and Sass</a>. Copyright &copy; by Jonas Schmedtmann. You are 100% allowed to use this webpage for both personal and commercial use, but NOT to claim it as your own design. A credit to the original author, Jonas Schmedtmann, is of course highly appreciated. 
+                        Built by <a href="#" className="footer__link">Kirill Evtushenko</a> for his online course <a href="#" className="footer__link">Advanced CSS and Sass</a>. Copyright &copy; by Jonas Schmedtmann. You are 100% allowed to use this webpage for both personal and commercial use, but NOT to claim it as your own design. A credit to the original author, Jonas Schmedtmann, is of course highly appreciated. 
                     </p>
                 </div>
             </div>
