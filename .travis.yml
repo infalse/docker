@@ -1,0 +1,9 @@
+sudo: required
+services:
+  - docker
+
+before_install:
+  - docker build -t infalse/docker -f dev.Dockerfile .
+
+script:
+  - docker run infalse/docker npm run test
